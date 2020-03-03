@@ -1,0 +1,16 @@
+1: Al presionar el botón Procesar
+	Colocar en el campo monto el costo correspondiente 
+		automóvil 3.000 bs
+		camión 15.000 bs
+		gandola 80.000 bs
+		transporte 10.000 bs. 
+(Si el iva esta seleccionado se calcula en el campo impuesto el 16% del costo del monto 
+y en el campo total la suma del impuesto mas el monto)
+
+
+2: El botón limpiar borra el contenido de todos los JtextField.
+3: El botón salir debe ejecutar un JOptionPane que pregunte si esta seguro que desea salir (si o no).
+4: Validar la entrada de la placa no sea mayor de 6 caracteres.
+
+
+##Además de esto, agregué una validación para que el campo de la placa no estuviese vacío##
